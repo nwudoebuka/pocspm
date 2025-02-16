@@ -13,7 +13,7 @@ let package = Package(
         .binaryTarget(
             name: "AppvestorStatsFramework",
             url: "https://github.com/nwudoebuka/pocspm/releases/download/1.0.0/AppvestorStatsFramework.xcframework.zip",
-            checksum: "2271d795ae691658c9ca4e54d366b67fc4cde10f2c838d9508b37f3a7b9d7d26"
+            checksum: "097569db85dfbec3c366403c065a20e30151ce59d5cbeef4293f81f2c3afd03d"
         ),
                 .testTarget(
                     name: "AppvestorStatsFrameworkTests",
