@@ -17,7 +17,7 @@ let package = Package(
         ),
                 .testTarget(
                     name: "AppvestorStatsFrameworkTests",
-                    dependencies: ["Appvestor_iOS_Stats"]
+                    dependencies: ["AppvestorStatsFramework"]
                 ),
     ]
 )
