@@ -1,0 +1,6 @@
+framework module AppvestorStatsFramework {
+  umbrella header "AppvestorStatsFramework.h"
+  export *
+
+  module * { export * }
+}

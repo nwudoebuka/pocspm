@@ -1,0 +1,72 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "AppvestorStatsFramework",
+    "printedName": "AppvestorStatsFramework",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AppvestorStatsFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AppvestorStatsFramework",
+        "printedName": "AppvestorStatsFramework",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AppvestorStatsFramework",
+                "printedName": "AppvestorStatsFramework.AppvestorStatsFramework",
+                "usr": "s:23AppvestorStatsFrameworkAAC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:23AppvestorStatsFrameworkAACABycfc",
+            "mangledName": "$s23AppvestorStatsFrameworkAACABycfc",
+            "moduleName": "AppvestorStatsFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:23AppvestorStatsFrameworkAAC",
+        "mangledName": "$s23AppvestorStatsFrameworkAAC",
+        "moduleName": "AppvestorStatsFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
