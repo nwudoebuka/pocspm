@@ -16,7 +16,7 @@ let package = Package(
             checksum: "2271d795ae691658c9ca4e54d366b67fc4cde10f2c838d9508b37f3a7b9d7d26"
         ),
                 .testTarget(
-                    name: "Appvestor_iOS_StatsTests",
+                    name: "AppvestorStatsFrameworkTests",
                     dependencies: ["Appvestor_iOS_Stats"]
                 ),
     ]
